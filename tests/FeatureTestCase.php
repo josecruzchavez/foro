@@ -1,6 +1,6 @@
 <?php
 
-Use \Illuminate\Foundation\Testing\DatabaseTransactions;
+Use Illuminate\Foundation\Testing\DatabaseTransactions;
 
 class FeatureTestCase extends TestCase
 {
